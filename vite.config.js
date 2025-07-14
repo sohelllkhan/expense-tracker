@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/sohelllkhan.github.io//",
+  base: "https://sohelllkhan.github.io/expense-tracker/",
   plugins: [react(),tailwindcss(),]
 })
